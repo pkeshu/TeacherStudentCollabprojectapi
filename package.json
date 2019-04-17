@@ -1,0 +1,18 @@
+{
+  "name": "tscp",
+  "version": "1.0.0",
+  "description": "Teacher Student Collab Project Restful Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/pkeshu/TeacherStudentCollabprojectapi.git"
+  },
+  "author": "keshar paudel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
